@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### Bem-vindo ao Script Hercules AD ! <br>
+### Bem-vindo ao Script Hércules AD ! <br>
 
 ![logo-hercules-minicraft](https://github.com/user-attachments/assets/c48f5b3e-7014-4f9f-a763-f4f0e0c504f4) <br>
 [CRÉDITOS](https://github.com/Wanderson304/Script-Hercules-AD/wiki/Cr%C3%A9ditos) <br>
