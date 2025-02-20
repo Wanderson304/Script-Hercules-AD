@@ -15,6 +15,6 @@
 
 <code style="color : green"> v1.0.1 - Beta | Atualizado em 20/02/2025 às 19:40 AM</code> <br> 
 
-[VEJA AQUI O PASSO A PASSO PARA INSTALAÇÃO]() <br>
+[VEJA AQUI O PASSO A PASSO PARA INSTALAÇÃO](https://github.com/Wanderson304/Script-Hercules-AD/wiki/Instala%C3%A7%C3%A3o) <br>
 
 </div>
