@@ -1,16 +1,16 @@
-# Script-Hercules-AD
+# Script Hercules AD
 
 <br>
 
 > [!IMPORTANT]
-> No momento disponibilizamos 4 Módulos com um total 15 relatórios. 
+> No momento o código ainda não está disponível aqui. 
 <br>
 
 <div align="center">
 
-### Bem-vindo ao Script Zeus 365 ! <br>
-  
-![Zeus6](https://github.com/user-attachments/assets/25c417dc-6545-4691-baaa-b46f2054c9e0) <br>
+### Bem-vindo ao Script Hercules AD ! <br>
+
+![logo-hercules-minicraft](https://github.com/user-attachments/assets/54526350-4963-494e-82c3-dc4475814451)
 [CRÉDITOS](https://github.com/Wanderson304/Script-Zeus-365/wiki/Cr%C3%A9ditos) <br>
 
 <code style="color : green"> Versão 1.2.1 - Fix-IT | Atualizado em 04/01/2025 às 16:40 AM</code> <br> 
