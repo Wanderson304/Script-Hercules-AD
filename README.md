@@ -1,7 +1,5 @@
 # Script-Hercules-AD
 
-# Script Zeus 365
-
 <br>
 
 > [!IMPORTANT]
