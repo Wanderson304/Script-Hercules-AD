@@ -10,11 +10,11 @@
 
 ### Bem-vindo ao Script Hercules AD ! <br>
 
-![logo-hercules-minicraft](https://github.com/user-attachments/assets/54526350-4963-494e-82c3-dc4475814451)
+![logo-hercules-minicraft](https://github.com/user-attachments/assets/c48f5b3e-7014-4f9f-a763-f4f0e0c504f4) <br>
 [CRÉDITOS](https://github.com/Wanderson304/Script-Zeus-365/wiki/Cr%C3%A9ditos) <br>
 
-<code style="color : green"> Versão 1.2.1 - Fix-IT | Atualizado em 04/01/2025 às 16:40 AM</code> <br> 
+<code style="color : green"> v1.0.1 - Fix-IT | Atualizado em 20/02/2025 às 19:40 AM</code> <br> 
 
-[VEJA AQUI O PASSO A PASSO PARA INSTALAÇÃO](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
+[VEJA AQUI O PASSO A PASSO PARA INSTALAÇÃO]() <br>
 
 </div>
