@@ -66,7 +66,7 @@ Basta escolher um tipo de relatório. Após se conectar nos recuros do Active Di
 ### Recursos para usuários
 
 [VEJA AQUI O PASSO A PASSO DA INSTALAÇÃO](https://github.com/Wanderson304/Script-Hercules-AD/wiki/Instala%C3%A7%C3%A3o) <br>
-[PLAYLIST DE TREINAMENTO NO YOTUBE](https://www.youtube.com/watch?v=46p-IxAVJ74&list=PL6X1uOqoBPc2E1GGCj2UY2gC6RYqY1Sxz) <br>
+[PLAYLIST DE TREINAMENTO NO YOTUBE](https://github.com/Wanderson304/Script-Hercules-AD/wiki/Treinamento) <br>
 [FÓRUM DE AJUDA HERCULES AD](https://github.com/Wanderson304/Script-Hercules-AD/issues) <br>
 
 <br>
