@@ -1,0 +1,6 @@
+﻿"DistinguishedName","GroupCategory","GroupScope","Name","ObjectClass","ObjectGUID","SamAccountName","SID"
+"CN=Incoming Forest Trust Builders,CN=Builtin,DC=contoso,DC=br","Security","DomainLocal","Incoming Forest Trust Builders","group","d894fda5-8d77-46dd-957d-64db204ef448","Incoming Forest Trust Builders","S-1-5-32-557"
+"CN=Pre-Windows 2000 Compatible Access,CN=Builtin,DC=contoso,DC=br","Security","DomainLocal","Pre-Windows 2000 Compatible Access","group","46429962-b4fd-4aad-bbd8-eaf10a418000","Pre-Windows 2000 Compatible Access","S-1-5-32-554"
+"CN=Exchange Domain Servers,CN=Users,DC=contoso,DC=br","Security","Global","Exchange Domain Servers","group","2404d1a0-182a-4890-8a6f-f4c90e6d9c13","Exchange Domain Servers","S-1-5-21-925037465-2226837016-4004537459-2614"
+"CN=Network Configuration Operators,CN=Builtin,DC=contoso,DC=br","Security","DomainLocal","Network Configuration Operators","group","c93716c4-92ae-4785-821e-9103badc0525","Network Configuration Operators","S-1-5-32-556"
+"CN=Distributed COM Users,CN=Builtin,DC=contoso,DC=br","Security","DomainLocal","Distributed COM Users","group","c104defd-1830-4249-aba8-8ee006606dda","Distributed COM Users","S-1-5-32-562"
