@@ -3,7 +3,7 @@
 <br>
 
 > [!IMPORTANT]
-> No momento o código ainda não está disponível aqui. 
+> No momento entregamos 3 relatórios, mas estamos trabalhando para entregar mais. 
 <br>
 
 <div align="center">
