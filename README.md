@@ -24,7 +24,7 @@
 O Script **Hércules AD** facilita o dia a dia do Administrador do Windows Server. Ele ajuda a extrair relatórios de objetos, identidades e recursos do Active Directory de forma rápida e formatada.
 <br>
 
-### relatórios entregues
+### Relatórios disponíveis
 
 :white_check_mark: Relatório de usuários <br>
 :white_check_mark: Relatório de grupos <br>
@@ -52,7 +52,16 @@ Com a ajuda do Hércules AD você tem uma coleção de relatórios do Active Dir
 Basta escolher um tipo de relatório. Após se conectar nos recuros do Active Directory você poderá exportar os relatórios para .CSV e ainda gerar um Dashboard automático.
 <br>
 
-EXEMPLO DE RELATÓRIOS
+### Exemplo de relatórios
+
+### Dashboard e relatório de usuários
+![image](https://github.com/user-attachments/assets/eecd1f2b-d6bd-47ab-83a2-c0368354e599)
+
+### Dashboard e relatório de grupos
+![image](https://github.com/user-attachments/assets/08b788bd-aea0-41c8-bd35-f1a11e5516cf)
+
+### Dashboard e relatório de computadores
+![image](https://github.com/user-attachments/assets/dcd8795d-e47c-4890-9a34-4dbfa592e3ec)
 
 ### Recursos para usuários
 
