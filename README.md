@@ -3,7 +3,8 @@
 <br>
 
 > [!IMPORTANT]
-> No momento entregamos 3 relatórios, mas estamos trabalhando para entregar mais. 
+> No momento entregamos 4 relatórios, mas estamos trabalhando para entregar mais.
+> Esse Script pode não funcionar no Windows 11
 <br>
 
 <div align="center">
